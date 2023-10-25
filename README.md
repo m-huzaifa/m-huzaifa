@@ -2,7 +2,7 @@
 
 #### A Full-Stack Developer
 
-- 🔭  I’m currently working as <b>Sr. Software Engineer/Team Lead</b> @ IIFA TECH
+- 🔭  I’m currently working as <b>Sr. Software Engineer/Team Lead</b> @ [tkxel](https://tkxel.com/)
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1KDsfvYoUE6y2zwElWIM33O1kBb0Wfcd_/view)
 
