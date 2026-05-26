@@ -1,10 +1,28 @@
 ## Hi 👋, I'm Muhammad Huzaifa
 
-#### A Full-Stack Developer
+### Senior Software Engineer / AI Development / Full Stack Developer
 
-- 🔭  I’m currently working as <b>Sr. Software Engineer</b> @ [tkxel](https://tkxel.com/)
+I'm a Senior Software Engineer with 6+ years of experience building SaaS platforms, Ruby on Rails applications, Shopify tools, APIs, cloud systems, and scalable web applications.
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1KDsfvYoUE6y2zwElWIM33O1kBb0Wfcd_/view)
+Currently, I'm working as a **Sr. Software Engineer / AI Development** at [Tkxel](https://tkxel.com/), where I work on production systems, AI-assisted development, LLM-based workflows, RAG/LangChain concepts, and AI-powered demo/MVP systems.
+
+---
+
+### 🌐 Portfolio
+
+👉 [View My Portfolio](https://m-huzaifa.github.io/portfolio/)
+
+---
+
+### 🛠️ Core Focus
+
+- AI Development & LLM Integrations
+- Ruby on Rails & Full Stack Development
+- SaaS Platforms & MVPs
+- Shopify Apps & E-commerce Tools
+- APIs, Cloud, DevOps & Performance Optimization
+
+---
 
 ### I code with
 <p align="left">
@@ -62,4 +80,3 @@
 
 [gmail]: mailto:huzaifadev05@gmail.com
 [linkedin]: https://www.linkedin.com/in/muhammad-huzaifa-dev
-[g]: https://github.com/m-huzaifa
