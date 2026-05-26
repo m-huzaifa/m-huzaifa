@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Muhammad Huzaifa
 
-### Senior Software Engineer / AI Development / Full Stack Developer
+### AI Engineer / Full Stack Engineer
 
 I'm a Senior Software Engineer with 6+ years of experience building SaaS platforms, Ruby on Rails applications, Shopify tools, APIs, cloud systems, and scalable web applications.
 
